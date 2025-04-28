@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+.venv/
+ENV/
+env/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+*.code-workspace
+.history/
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# Logs
+*.log
+logs/
+log/
+
+# Local development
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# Distribution
+*.tar.gz
+*.zip
+*.rar
+
+# Temporary files
+tmp/
+temp/
+
+# Hugging Face cache
+.cache/
+.huggingface/ 
